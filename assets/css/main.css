@@ -594,7 +594,7 @@ input, select, textarea {
 			padding: 0;
 		}
 
-/* Icon */
+/* Icon
 
 	.icon {
 		text-decoration: none;
@@ -629,7 +629,7 @@ input, select, textarea {
 
 		.icon.brands:before {
 			font-family: 'Font Awesome 5 Brands';
-		}
+		} */
 
 /* Image */
 
@@ -1286,7 +1286,7 @@ input, select, textarea {
 				display: none;
 			}
 
-		#header .logo .jimmylogo {
+		#header .logo {
 			width: 5.5rem;
 			height: 5.5rem;
 			line-height: 5.5rem;
@@ -1294,7 +1294,7 @@ input, select, textarea {
 			border-radius: 100%;
 		}
 
-			#header .logo .jimmylogo .icon:before {
+			#header .logo .icon:before {
 				font-size: 2rem;
 			}
 
@@ -1436,7 +1436,7 @@ input, select, textarea {
 					height: calc(2rem + 1px);
 				}
 
-			#header .logo {
+			#header .logo{
 				width: 5.5rem;
 				height: 5.5rem;
 				line-height: 5.5rem;
