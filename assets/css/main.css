@@ -1658,11 +1658,10 @@ input, select, textarea {
 
 		video {
 			position: fixed;
-			left: 0%;
-			bottom: 0%;
+			left: -50%;
+			bottom: -30%;
 			min-width: 100%;
 			min-height: 100%;
 			width: auto;
 			height: auto;
-			z-index: -1;
 		}
